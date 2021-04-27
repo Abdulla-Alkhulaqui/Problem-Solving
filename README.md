@@ -1,1 +1,1 @@
-# YouTube-Problem-Solving
+# Problem-Solving
